@@ -1,0 +1,80 @@
+# 广告/追踪/成人弹窗 域名黑名单（网络级拦截）
+# 每行一个域名；匹配规则：域名本身或其后缀域名命中即拦截。
+# 本文件内置常用中文广告网络 + 海外广告/SSP + 追踪埋点。
+
+# ---- Google ----
+googlesyndication.com
+doubleclick.net
+googleadservices.com
+google-analytics.com
+googletagmanager.com
+adservice.google.com
+pagead2.googlesyndication.com
+googlesyndication.cn
+
+# ---- 百度系 ----
+cpro.baidu.com
+pos.baidu.com
+hm.baidu.com
+union.baidu.com
+sxsyds.baidu.com
+akm.baidu.com
+cbjs.baidu.com
+nsclick.baidu.com
+ubmcns.baidu.com
+
+# ---- 腾讯/Alibaba/其他国内联盟 ----
+gdt.qq.com
+e.qq.com
+ads.qq.com
+pgdt.qq.com
+admaster.com.cn
+cnzz.com
+umeng.com
+umeng.co
+51.la
+51yes.com
+cpro.51yes.com
+tanx.com
+alimama.com
+mmstat.com
+adcdn.cn
+acjs.bdstatic.com
+
+# ---- 海外 DSP / SSP / 广告网络 ----
+mgid.com
+taboola.com
+outbrain.com
+revcontent.com
+adnxs.com
+pubmatic.com
+rubiconproject.com
+openx.net
+criteo.com
+criteo.net
+casalemedia.com
+bidswitch.net
+adsrvr.org
+advertising.com
+doubleverify.com
+moatads.com
+adroll.com
+criteo.io
+
+# ---- 追踪 / 分析 / 归因 ----
+scorecardresearch.com
+quantserve.com
+mixpanel.com
+branch.io
+appsflyer.com
+adjust.com
+amplitude.com
+segment.com
+hotjar.com
+fullstory.com
+mouseflow.com
+
+# ---- 常见娱乐/资讯站广告与跳转 ----
+gamepindao.com
+union.52pk.net
+dl.gbq.com

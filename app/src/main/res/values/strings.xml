@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">净阅</string>
+    <string name="hint_url">输入网址，或直接搜书名</string>
+    <string name="read_mode">阅读</string>
+    <string name="exit_read_mode">网页</string>
+    <string name="menu">☰</string>
+    <string name="back">◀</string>
+    <string name="forward">▶</string>
+</resources>

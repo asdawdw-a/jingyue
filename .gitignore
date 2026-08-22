@@ -1,0 +1,27 @@
+# 构建产物
+build/
+.gradle/
+local.properties
+*.apk
+*.aab
+
+# 签名密钥（切勿上传！）
+*.keystore
+*.jks
+keystore.properties
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# 日志与临时数据
+*.log
+/logs/
+
+# 备份与采样数据（含第三方站点样本，不开源）
+backup/
+*.html.bak
+
+# 根级开发截图（mipmap 图标不受影响）
+/*.png
